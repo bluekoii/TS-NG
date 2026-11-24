@@ -1,0 +1,6 @@
+{
+  "name": "SG CastMap — Singapore Legal Fishing Grounds",
+  "description": "Interactive map of all legal fishing grounds in Singapore across PUB reservoirs, waterways, NParks coastal parks, jetties, and offshore islands, with bait rules and no-take zone alerts.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
